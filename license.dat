@@ -1,0 +1,28 @@
+----- VASCO LICENCE -----
+Authentication=Yes
+Company=Software Shop Limited
+Component=Identikey Server
+Description=Practice OneSpan installtaion
+EMV-CAP=Yes
+HSM=Yes
+LayoutVersion=1
+Location=192.168.0.14
+Product=Identikey Server
+Provisioning=Yes
+RADIUS=Yes
+SEAL=Yes
+SOAP=Yes
+SerialNo=2FC4FF0E1E
+Signature=Yes
+StaticPwdAuthentication=Yes
+Username=Samirul Haque
+WindowsLogon=Yes
+Version=3.1
+Expires=2021/08/01 09:48:51 GMT
+Generated=2021/06/17 09:48:51 GMT
+----- SIGNATURE -----
+3:302C02145A6753913AF547
+20B251C2C8D5E86E2C76496C
+6402146FD53BA00262C22F81
+CD23919BE28F88A2E76DCB
+----- END LICENCE -----
