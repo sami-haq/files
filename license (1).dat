@@ -1,0 +1,28 @@
+----- VASCO LICENCE -----
+Authentication=Yes
+Company=Software Shop Limited
+Component=Identikey Server
+Description=
+EMV-CAP=Yes
+HSM=Yes
+LayoutVersion=1
+Location=192.168.0.51
+Product=Identikey Server
+Provisioning=Yes
+RADIUS=Yes
+SEAL=Yes
+SOAP=Yes
+SerialNo=2FC4FF0E1E
+Signature=Yes
+StaticPwdAuthentication=Yes
+Username=Samirul Haque
+WindowsLogon=Yes
+Version=3.1
+Expires=2021/08/19 09:20:51 GMT
+Generated=2021/07/05 09:20:51 GMT
+----- SIGNATURE -----
+3:302D021500B54CB8CF1305
+76AB0BA5B5231680074375DD
+650B021427027FC990663FB6
+5610AFA1A4774404B126172E
+----- END LICENCE -----
